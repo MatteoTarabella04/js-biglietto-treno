@@ -9,5 +9,5 @@ header {
 
 .jumbo {
     background-image: url('../img/station.jpeg');
-    background-size: contain;
+    background-size: cover;
 }
