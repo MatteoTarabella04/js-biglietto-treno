@@ -34,5 +34,6 @@ if (age < 18) {
     tot = (km * priceKm);
 
     finalPrice.innerHTML = `${tot.toFixed(2)} €`;
+    console.log(tot.toFixed(2));
 
 }

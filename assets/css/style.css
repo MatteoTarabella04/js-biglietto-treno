@@ -1,0 +1,13 @@
+
+header {
+    height: 60px;
+}
+
+#app_main {
+    height: calc(100vh - 60px);
+}
+
+.jumbo {
+    background-image: url('../img/station.jpeg');
+    background-size: contain;
+}
